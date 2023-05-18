@@ -6,6 +6,6 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <App />
+    <App /> // this (custom html elements) is jsx code
 );
 
